@@ -19,10 +19,6 @@ It also integrates **database deduplication** to avoid redundant storage and dyn
 <img width="1470" height="789" alt="Existed" src="https://github.com/user-attachments/assets/76b6659b-6ca9-43c8-854a-74edd411e5f4" />
 
 
-
-
-> 📝 *Add screenshots/GIFs above for immediate visual context when someone opens your repository.*
-
 ---
 
 ## 📘 Table of Contents  
